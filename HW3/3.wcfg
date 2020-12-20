@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/HW/hw3/test2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="test2" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/test2/x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/uut/c_port" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c_port[31:0]</obj_property>
+      <obj_property name="ObjectShortName">c_port[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/z" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/uut/s_port" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">s_port[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_port[31:0]</obj_property>
+   </wvobject>
+</wave_config>
